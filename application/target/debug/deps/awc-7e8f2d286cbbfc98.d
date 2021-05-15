@@ -1,0 +1,14 @@
+c:\Users\Jendrik\IOTA_Health_App\IOTA-Health-Certificate\Application\target\debug\deps\awc-7e8f2d286cbbfc98.rmeta: C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src/lib.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\builder.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\connect.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\error.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\frozen.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\request.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\response.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\sender.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\test.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\ws.rs
+
+c:\Users\Jendrik\IOTA_Health_App\IOTA-Health-Certificate\Application\target\debug\deps\awc-7e8f2d286cbbfc98.d: C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src/lib.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\builder.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\connect.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\error.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\frozen.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\request.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\response.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\sender.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\test.rs C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\ws.rs
+
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src/lib.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\builder.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\connect.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\error.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\frozen.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\request.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\response.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\sender.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\test.rs:
+C:\Users\Jendrik\.cargo\registry\src\github.com-1ecc6299db9ec823\awc-1.0.1\src\ws.rs:
