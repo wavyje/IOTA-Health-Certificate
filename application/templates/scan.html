@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charSet="UTF-8" />
+    <meta name="viewport" content="width=device-width,
+ initial-scale=1.0" />
+    <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="This is a simple
+ to do app" />
+    <title>Scan</title>
+</head>
+
+<style>
+    {{BASE_CSS}}
+</style>
+
+<body>
+    <h1>Code scannen</h1>
+
+    <div class = "pp">
+        <div class = "box-element">
+            <img src = "./images/avatar.png" width="200" height="200">
+        </div>
+        </div>
+
+    <div class = "box-container">
+
+        <div class = "box-element">
+            <div id = "qrcode" style="margin: 0px auto;" width = "300" height = "300">
+        </div>
+
+        <div class = "box-element">
+            <button id = "cancel">Abbrechen</button>
+        </div>
+
+    </div>
+</body>
+
+<script type="text/javascript">
+    document.getElementById("cancel").onclick = function () {
+        location.href = "http://127.0.0.1:8000";
+    };
+
+    // <![CDATA[
+    function qr() {
+    var namedElements = document.getElementById("qrcode");
+    namedElements.innerHTML = "<img class='img-responsive' alt='QR Code to this page' src='https://chart.googleapis.com/chart?cht=qr&choe=UTF-8&chld=L|0&chs=250x250&chl=" + encodeURIComponent("http://127.0.0.1:8000/success") + "' />";
+    }
+    window.onload = qr;
+    // ]]>
+</script>
+
+</html>

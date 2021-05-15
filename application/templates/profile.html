@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charSet="UTF-8" />
+    <meta name="viewport" content="width=device-width,
+ initial-scale=1.0" />
+    <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="This is a simple
+ to do app" />
+    <title>Profil</title>
+</head>
+
+<style>
+    {{BASE_CSS}}
+</style>
+
+<body>
+
+    <div class="button-item">
+        <button id="home">Startseite</button>
+    </div>
+
+    <h1>Persönliches</h1>
+
+    <div class = "pp">
+    <img id = "profilepicture" src="./images/avatar.png" width="200" height="200">
+    </div>
+
+    <div class="data-container">
+
+        </div class="data-item">
+        <form id="name">Name</form>
+        </div>
+
+        </div class="data-item">
+        <form id="pass">PassNr</form>
+        </div>
+
+        </div class="data-item">
+        <form id="birthplace">Geburtsort</form>
+        </div>
+
+        </div class="data-item">
+        <form id="birthday">Geburtstag</form>
+        </div>
+
+        </div class="data-item">
+        <form id="address">Addresse</form>
+        </div>
+        
+        </div>
+
+    <div class="button-item">
+            <button id="scan">Daten anzeigen</button>
+    </div>
+
+    <div class="button-item">
+            <button id="scan">Bearbeiten</button>
+    </div>
+
+
+
+</body>
+
+<script type="text/javascript">
+    document.getElementById("home").onclick = function () {
+        location.href = "http://127.0.0.1:8000";
+    };
+</script>
+
+</html>
